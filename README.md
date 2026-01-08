@@ -24,7 +24,7 @@ In this project, I performed an **Exploratory Data Analysis (EDA)** on TCS (Tata
 ## ⚙️ How to Run This
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/dwaipayandas18/tcs-stock-analysis.git](https://github.com/dwaipayandas18/tcs-stock-analysis.git)
+    git clone [https://github.com/vedvyass/TCSStocks_Exploratory_DA_.git](https://github.com/vedvyass/TCSStocks_Exploratory_DA_.git)
     ```
 2.  **Install Requirements:**
     ```bash
@@ -37,4 +37,4 @@ In this project, I performed an **Exploratory Data Analysis (EDA)** on TCS (Tata
     *(The graphs will pop up one by one. Close a graph to see the next one!)*
 
 ---
-*Created by Dwaipayan Das*
+*Created by Dwaipayan Das(vedvyass)*
