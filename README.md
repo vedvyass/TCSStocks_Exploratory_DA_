@@ -1,6 +1,5 @@
 # 📈 TCS Stock Market Analysis (EDA)
 
-This is my second Data Science project! 
 
 In this project, I performed an **Exploratory Data Analysis (EDA)** on TCS (Tata Consultancy Services) stock data. My goal was to move beyond simple Excel charts and use Python to uncover deeper insights about trends, risk, and volatility.
 
